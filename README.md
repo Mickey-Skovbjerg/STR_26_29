@@ -13,7 +13,7 @@
 #### Identified issues
 1. Because the construction was built without a model, it is possible to make mistakes when modelling it for transformation. This makes it easy to overlook something important.
 #### Identified solutions
-### Tool Issues
 1. A model from the beginning is important if there should be any changes later.
+### Tool Issues
 #### Identified issues
 #### Identified solutions
