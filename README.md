@@ -4,7 +4,9 @@
 1. The columns in the north-east part of the building are significantly more loaded than the columns in the rest of the building
 2. The structural elements are generally overdimensioned in the existing building, and can carry more load than they are right now
 3. There isn't a borehole for B308 and boreholes for nearby buildings have been used instead for defining soil layer and ground water.
+4. Because the construction was built without a model, it is possible to make mistakes when modelling it for transformation. This makes it easy to overlook something important.
 ### Identified solutions
 1. The layout of the structural elements could have been done, so the loads are more evenly distributed between the columns. 
 2. hej
 3. A borehole for B308 could have been done in the design fase
+4. A model from the beginning is important if there should be any changes later.
