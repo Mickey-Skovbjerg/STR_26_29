@@ -6,3 +6,5 @@
 3. There isn't a borehole for B308 and boreholes for nearby buildings have been used instead for defining soil layer and ground water.
 ### Identified solutions
 1. The layout of the structural elements could have been done, so the loads are more evenly distributed between the columns. 
+2. hej
+3. A borehole for B308 could have been done in the design fase
