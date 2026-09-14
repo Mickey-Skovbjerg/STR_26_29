@@ -17,5 +17,7 @@
 ### Tool Issues
 #### Identified issues
 1. There are no tools that gives an overview and visualization of the loads.
+2. Structural element numbering for load transferring can be a pain to manage.
 #### Identified solutions
 1. Making a python tool to visualize and present the loads
+2. A tool that automatically names structural elements based on their placement (grid) and type
