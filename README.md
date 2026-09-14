@@ -2,8 +2,8 @@
 ## A1 Forensic BIM
 ### Design Issues
 #### Identified issues
-1. The columns in the north-east part of the building are significantly more loaded than the columns in the rest of the building
-2. The structural elements are generally overdimensioned in the existing building, and can carry more load than they are right now
+1. The columns in the north-east part of the building are significantly more loaded than the columns in the rest of the building - 26-02-A-ClientReport, page 10
+2. The structural elements are generally overdimensioned in the existing building, and can carry more load than they are right now - 26-04-A-ClientReport, page 14
 3. There isn't a borehole for B308 and boreholes for nearby buildings have been used instead for defining soil layer and ground water.
 #### Identified solutions
 1. The layout of the structural elements could have been done, so the loads are more evenly distributed between the columns. 
