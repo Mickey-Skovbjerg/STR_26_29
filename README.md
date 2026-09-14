@@ -16,5 +16,6 @@
 1. A model from the beginning is important if there should be any changes later.
 ### Tool Issues
 #### Identified issues
-
+1. There are no tools that gives an overview and visualization of the loads.
 #### Identified solutions
+1. Making a python tool to visualize and present the loads
