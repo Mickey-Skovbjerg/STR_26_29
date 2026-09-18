@@ -7,7 +7,7 @@
 3. There isn't a borehole for B308 and boreholes for nearby buildings have been used instead for defining soil layer and ground water.
 #### Identified solutions
 1. The layout of the structural elements could have been done, so the loads are more evenly distributed between the columns. 
-2. 
+2. Making calculations that would support dimensions more suited for the loads they are given.
 3. A borehole for B308 could have been done in the design fase
 ### Model Issues
 #### Identified issues
@@ -20,4 +20,4 @@
 2. Structural element numbering for load transferring can be a pain to manage.
 #### Identified solutions
 1. Making a python tool to visualize and present the loads
-2. A tool that automatically names structural elements based on their placement (grid) and type
+2. A tool that automatically names structural elements based on their placement (grid) and type.
