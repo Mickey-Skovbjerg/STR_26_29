@@ -1,5 +1,18 @@
-# A2a: About your group
+## A2a: About your group
 "I am confident coding in Python" Mickey: 3, Yusuf: , Rasmus: 
 This group is an analyst group with focus on structures.
 
-# A2b: Identify claim
+## A2b: Identify claim
+We have chosen to use building ??.
+Our claim is "to automatically name structural elements based on their placement, type and dimensions, and visualize these structural members with their names". The naming of structural elements is often made manualy and without too much thought, and can sometimes be unstructured and confusing in the long run.
+
+## A2c: Use case
+We could check if the number of structural elements in the model is the same as the number of names we get from the tool. If we do an automatically generated drawing, we would check if it aligns with the manually drawn model. We will check if the tool made the right assumptions on which kind of element it is, (beam/column/wall/slab etc.).
+
+When using the tool, you need to check if the drawings allign with the manually drawn drawings, and if there are missing elements, or if there are duplicate elements. This could be a sign that there is something wrong with their model. But the tool needs to be tested in multiple ways before it can be used.
+
+This claim relies on the information of the IFC type for columns, slabs, beams and walls. There should also be information about the length, orientation, cross section, as well as the position of the element in the x, y, and z axis.
+
+The tool will be needed in the early design phases, and might be used iteratively, if structural members are added or left out.
+
+Considering BIM purposes, the tool will *gather* model informations about the placement, dimensions, type etc. The tool will then *generate* names based on these informations. And lastly, it will *communicate* the information via an automatically created drawing, showing the placement and names of each element.
