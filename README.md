@@ -4,7 +4,7 @@ This report presents the work of Group 29 in course 41934 Advanced Building Info
 ## [A1: Forensic BIM](./A1)
 In the first assignment, we became familiar with the core concepts of OpenBIM. The assignment describes our focus area, the issue we identified, and a possible solution.
 
-## [A2: Use Case](./A2/A2.md)
+## [A2: Use Case](./A2)
 In the second assignment, we identified a use case that we are passionate about and want to develop a tool for in A3. It specifies the building we chose to work with and describes the tool we intend to build to solve the identified issue.
 
 ## [A3: [Title]](./A3)
