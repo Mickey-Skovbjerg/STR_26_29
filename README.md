@@ -8,4 +8,4 @@ In the first assignment, we became familiar with the core concepts of OpenBIM. T
 In the second assignment, we identified a use case that we are passionate about and want to develop a tool for in A3. It specifies the building we chose to work with and describes the tool we intend to build to solve the identified issue.
 
 ## [A3: [Title]](./A3)
-(To be continued...)
+In the third assignment, we had to teach a subject that we found interesting regarding BIM. In this 
